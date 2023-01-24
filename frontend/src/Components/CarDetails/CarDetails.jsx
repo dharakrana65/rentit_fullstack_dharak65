@@ -131,7 +131,7 @@ const CarDetails = () => {
             style={{ display: "flex", justifyContent: "space-evenly" }}
           >
             <div style={{ padding: "2vmax" }}>
-              <img src={carimg} alt="" srcset="" className="car-img" />
+              <img src={car && car.url} alt="" srcset="" className="car-img" />
             </div>
             <div
               style={{
