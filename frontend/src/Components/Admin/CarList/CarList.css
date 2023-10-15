@@ -22,7 +22,7 @@
   height: fit-content;
   width: fit-content;
   padding: 5px 10px;
-  background-color: #00ADB5;
+  background-color: #3591ca;
   color: #EEEEEE;
   cursor: pointer;
   margin-right: 20px;
@@ -52,11 +52,12 @@ border-radius: 5px;
 border-color: #0d6efd;
 background-color:  #0d6efd;
 color: white;
+padding: 2px;
 /* font-weight: 700; */
 height: 4.7vh;
 width: fit-content;
 text-align: center;
-padding: 5px;
+/* padding: 5px; */
 }
 
 .productAddButton:hover{
@@ -68,4 +69,17 @@ transition: .5s all ease-in-out;
 border-radius: 3px;
 box-shadow: 1px 1px 1px 1px rgb(221, 223, 224);
 
+}
+
+.css-ptiqhd-MuiSvgIcon-root{
+
+  color: white;
+}
+
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root{
+  color: white;
+}
+
+.main-container2{
+  background-color: #222831;
 }

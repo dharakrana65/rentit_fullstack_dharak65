@@ -40,7 +40,7 @@
 .sidebarListItem.active,
 .sidebarListItem:hover {
 
-  background-color: #00ADB5;
+  background-color: #3591ca;
 
   font-weight: bold;
 }
@@ -48,4 +48,8 @@
   margin-right: 5px;
   font-size: 1.7rem;
   color: white;
+}
+
+.link{
+  text-decoration: none;
 }
