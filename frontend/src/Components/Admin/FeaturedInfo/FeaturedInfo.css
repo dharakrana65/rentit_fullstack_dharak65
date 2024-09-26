@@ -19,10 +19,10 @@
   border-radius: 50%;
   cursor: pointer;
   -webkit-box-shadow: 5px 5px 0px 1px #cccccc;
-  box-shadow: 5px 5px 0px 1px #cccccc;
+  box-shadow: 3px 3px 3px 0px #cccccc
 }
 .featured :hover {
-  background-color: #00ADB5;
+  background-color: #3591ca;
 }
 .featuredTitle {
   /* font-size: 20px; */
